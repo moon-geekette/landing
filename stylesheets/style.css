@@ -1,0 +1,21 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+	min-height: 500px;
+}
+
+#footer{
+	padding: 20px;
+	background: rgb(77,28,27);
+	color: white;
+}
+
+h1,h2,h3{
+	color: blue;
+}
+
+.orange{
+	color: orange;
+}
